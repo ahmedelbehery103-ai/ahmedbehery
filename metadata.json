@@ -1,0 +1,7 @@
+{
+  "name": "NoRisk Production - EstimatorPro ",
+  "description": "A professional exhibition booth estimation and quotation platform tailored for the Egyptian market, built on the Google Cloud/Firebase ecosystem.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
